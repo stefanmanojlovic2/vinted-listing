@@ -1,0 +1,16 @@
+# Your photos and listings stay on your computer
+/inbox/*
+!/inbox/.gitkeep
+/items/
+/jpg/
+/listings.json
+/listings.md
+*.heic
+*.HEIC
+*.mov
+*.MOV
+
+# System and tool junk
+.DS_Store
+__pycache__/
+.ruff_cache/

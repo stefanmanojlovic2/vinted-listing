@@ -1,0 +1,5 @@
+Pillow>=9.0
+
+# Only needed off macOS, or on a Mac without sips: decodes HEIC photos.
+# macOS has sips built in, so Pillow alone is enough there.
+pillow-heif>=0.13; sys_platform != "darwin"

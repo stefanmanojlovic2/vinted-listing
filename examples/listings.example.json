@@ -1,0 +1,67 @@
+[
+  {
+    "id": "001",
+    "slug": "kappa-gara-jersey",
+    "folder": "items/001-kappa-gara-jersey",
+    "images": [
+      "items/001-kappa-gara-jersey/001-kappa-gara-jersey-01-IMG_0001.HEIC",
+      "items/001-kappa-gara-jersey/001-kappa-gara-jersey-02-IMG_0002.HEIC",
+      "items/001-kappa-gara-jersey/001-kappa-gara-jersey-03-label-IMG_0003.HEIC"
+    ],
+    "source_photos": [
+      "IMG_0001",
+      "IMG_0002",
+      "IMG_0003:label"
+    ],
+    "title": "Kappa Gara checkerboard football jersey",
+    "description": "Kappa Kombat Gara football jersey, black with green and orange wavy checkerboard print. Gold Kappa logos on the chest and shoulders, gold metal badge.\n\nPerfect for Sunday league. Best paired with a cigarette at half time.\n\nLabel size large, fits like a medium tbh. Very good condition, no visible flaws. 100% polyester.",
+    "hashtags": [
+      "kappa",
+      "kombat",
+      "gara",
+      "footballshirt",
+      "checkerboard",
+      "venezia",
+      "menswear"
+    ],
+    "category": "Printed t-shirts",
+    "brand": "Kappa",
+    "size": "L",
+    "size_label": "LARGE",
+    "condition": "Very good",
+    "colours": [
+      "Black",
+      "Green"
+    ],
+    "material": "Polyester",
+    "parcel_size": "Small",
+    "status": "written",
+    "vinted_url": null,
+    "notes": "Vinted NL Sep 2026: Venezia FC Kappa jerseys in L €35–38."
+  },
+  {
+    "id": "002",
+    "slug": "levis-jeans-blue",
+    "folder": "",
+    "images": [],
+    "source_photos": [
+      "IMG_0101",
+      "IMG_0102",
+      "IMG_0103:label"
+    ],
+    "title": "",
+    "description": "",
+    "hashtags": [],
+    "category": "",
+    "brand": "",
+    "size": "",
+    "size_label": "",
+    "condition": "",
+    "colours": [],
+    "material": "",
+    "parcel_size": "",
+    "status": "draft",
+    "vinted_url": null,
+    "notes": ""
+  }
+]
