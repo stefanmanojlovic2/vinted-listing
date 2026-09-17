@@ -8,7 +8,7 @@ Clearing out a wardrobe means 30 items to photograph, 300 photos to sort through
 
 Works with iPhone or Android photos on macOS, Windows or Linux.
 
-Requirements: an agent that can read files and view images, such as Claude Code, Codex, Cursor or Copilot. On Windows or Linux, run `python3 -m pip install -r requirements.txt` first; macOS already has everything it needs.
+Requirements: an agent that can read files and view images, such as Claude Code, Codex, Cursor or Copilot. It installs anything else it needs on the first run.
 
 ## Steps
 
@@ -46,6 +46,7 @@ Anything it can't place goes to `items/_unsorted/` for you to look at. If it get
 | Colours | Blue |
 | Material | Denim |
 | Parcel size | Medium |
+| Hashtags | #levis #501 #denim #straightleg #midblue |
 
 ```
 Levi's 501 straight leg jeans in mid blue denim. Button fly, red tab on the back pocket.

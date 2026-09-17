@@ -34,6 +34,12 @@ start Step 2. Anything genuinely ambiguous: ask in one line, not a menu.
 came out, fix what is yours to fix (`listings.json`), and run it again. Never delete a photo to
 resolve a duplicate — show both paths and ask which to keep.
 
+**Missing dependencies are yours to install, not the user's.** A script that exits saying Pillow or
+pillow-heif is missing prints the command to fix it: run that command, then run the script again.
+Say what you installed in one line; don't stop and ask. If pip refuses with
+`externally-managed-environment`, install into a virtualenv or use `pipx`, and if that fails too,
+then tell the user what is blocked.
+
 ## Step 1 — Taste check
 
 Every session, before writing anything. Open [TASTE.md](TASTE.md): how listings sound, what never
