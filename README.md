@@ -39,9 +39,12 @@ Anything it can't place goes to `items/_unsorted/` for you to look at. If it get
 | Field | Value |
 |---|---|
 | Title | Levi's 501 straight jeans mid blue |
-| Category · Brand | Straight fit jeans · Levi's |
-| Size · Condition | W32 L32 · Good |
-| Colours · Material | Blue · Denim |
+| Category | Straight fit jeans |
+| Brand | Levi's |
+| Size | W32 L32 |
+| Condition | Good |
+| Colours | Blue |
+| Material | Denim |
 | Parcel size | Medium |
 
 ```
@@ -86,4 +89,4 @@ MIT — see [LICENSE](LICENSE).
 
 ---
 
-Built by Stefan Manojlovic ([https://www.linkedin.com/in/stefanmanojlovic2/](https://www.linkedin.com/in/stefanmanojlovic2/?skipRedirect=true)), Marketing at [Snitcher](https://www.snitcher.com/?utm_medium=social&utm_source=github&utm_content=stef-profile)
+Built by [Stefan Manojlovic](https://www.linkedin.com/in/stefanmanojlovic2/?skipRedirect=true), Marketing at [Snitcher](https://www.snitcher.com/?utm_medium=social&utm_source=github&utm_content=stef-profile)
